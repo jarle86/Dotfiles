@@ -1,6 +1,0 @@
-2021/02/17-20:00:13.366 3 Reusing MANIFEST /home/jarias/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2021/02/17-20:00:13.370 3 Recovering log #4
-2021/02/17-20:00:13.372 3 Reusing old log /home/jarias/.config/chromium/Default/Local Storage/leveldb/000004.log 
-2021/02/17-20:10:27.601 3 Level-0 table #8: started
-2021/02/17-20:10:27.612 3 Level-0 table #8: 82980 bytes OK
-2021/02/17-20:10:27.622 3 Delete type=0 #4
